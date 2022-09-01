@@ -1,6 +1,6 @@
 ---
 title: Zhexian Zhang
-role: Professor of Artificial Intelligence
+role: Doctor of Energy Science
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -8,6 +8,9 @@ interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
+  - Nuclear_Materials
+  - Irradiation_Damage
+  - Advanced_Electron_Microscopy
 social:
   - icon: envelope
     icon_pack: fas
