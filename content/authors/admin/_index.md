@@ -5,12 +5,9 @@ avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-  - Nuclear_Materials
-  - Irradiation_Damage
-  - Advanced_Electron_Microscopy
+  - Nuclear Materials
+  - Irradiation Damage
+  - Advanced Electron Microscopy
 social:
   - icon: envelope
     icon_pack: fas
