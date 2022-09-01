@@ -16,18 +16,34 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
+  - description: 100%
+    icon: telescope
+    icon_pack: fas
+    name: TEM
+  - description: 100%
+    icon: flower
+    icon_pack: fas
+    name: EBSD
+  - description: 100%
+    icon: ufo-beam
+    icon_pack: far
+    name: FIB
   - description: 90%
     icon: indent
     icon_pack: fas
-    name: R
-  - description: 100%
-    icon: chart-line
+    name: Nano-indentation
+  - description: 60%
+    icon: flag-checkered
+    icon_pack: fal
+    name: FEM
+  - description: 40%
+    icon: ball-pile
     icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+    name: LAMMPS
+  - description: 30%
+    icon: message-bot
+    icon_pack: fal
+    name: Machine Learning
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
