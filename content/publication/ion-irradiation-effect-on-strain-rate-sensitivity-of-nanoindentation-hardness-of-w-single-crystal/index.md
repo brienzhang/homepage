@@ -2,7 +2,6 @@
 title: Ion Irradiation Effect on Strain Rate Sensitivity of Nanoindentation
   Hardness of W Single Crystal
 publication_types:
-  - "0"
   - "2"
 authors:
   - Eva Hasenhuetl
