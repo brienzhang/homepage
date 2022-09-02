@@ -3,7 +3,7 @@ title: Irradiation hardening in pure tungsten before and after recrystallization
 publication_types:
   - "2"
 authors:
-  - Zhexian Zhang
+  - admin
   - Dongsheng Chen
   - Wentuo Han
   - Akihiko Kimura
