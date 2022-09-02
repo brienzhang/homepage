@@ -33,10 +33,8 @@ tags:
   - recrystallization
   - nanoindentation
   - ion-irradiation
-categories:
-  - Tungsten
-projects:
-  - Tungsten
+categories: []
+projects: []
 image:
   filename: recrystallization.png
   focal_point: Smart
