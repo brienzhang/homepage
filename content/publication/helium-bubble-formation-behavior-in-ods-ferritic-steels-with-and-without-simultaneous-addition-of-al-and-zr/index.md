@@ -1,6 +1,5 @@
 ---
-title: Helium bubble formation behavior in ODS ferritic steels with and without
-  simultaneous addition of Al and Zr
+title: Helium bubble formation behavior in ODS ferritic steels
 publication_types:
   - "2"
 authors:
