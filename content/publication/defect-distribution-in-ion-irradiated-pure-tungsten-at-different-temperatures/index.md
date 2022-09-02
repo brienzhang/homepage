@@ -1,7 +1,6 @@
 ---
 title: Defect distribution in ion-irradiated pure tungsten at different temperatures
 publication_types:
-  - "0"
   - "2"
 authors:
   - admin
