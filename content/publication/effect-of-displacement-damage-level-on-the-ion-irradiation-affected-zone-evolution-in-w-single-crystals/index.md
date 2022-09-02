@@ -1,5 +1,5 @@
 ---
-title: Effect of displacement damage level on the ion-irradiation affected zone
+title: Effect of displacement damage level on the ion irradiation affected zone
   evolution in W
 publication_types:
   - "2"
