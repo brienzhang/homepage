@@ -22,28 +22,59 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+- title: Visitor
+    company: Los Alamos National Laboratory
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    location: Los Alamos
+    date_start: '2019-01-06'
+    date_end: '2019-06-06'
+    description: Participate in TEM work on 1) neutron irradiated MA956 and 2) ion-irradiated CuNb multi-nanolayer composites.
+    
+ - title: Visitor
+    company: Pacific Northwest National Laboratory
+    company_url: ''
+    company_logo: org-gc
+    location: Richland
+    date_start: '2018-06-01'
+    date_end: '2018-06-30'
+    description: Participate in demonstration of STEM imging of diffraction contrast in metals.
+    
+ - title: PostDoc
+    company: University of New Mexico
+    company_url: ''
+    company_logo: org-gc
+    location: Albuqueque
+    date_start: '2018-03-10'
+    date_end: '2020-03-10'
+    description: Guiding local TEM and irradiation related researches.
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+ - title: Program-specific assistant professor
+    company: Kyoto University
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Uji
+    date_start: '2017-06-01'
+    date_end: '2018-02-16'
+    description: Researches on FeCrAl ODS steels.
+    
+ - title: Program-specific Researcher
+    company: Kyoto University
+    company_url: ''
+    company_logo: org-x
+    location: Uji
+    date_start: '2017-04-01'
+    date_end: '2017-05-31'
+    description: Researches on FeCrAl ODS steels.
+    
+  - title: Researcher
+    company: Kyoto University
+    company_url: ''
+    company_logo: org-x
+    location: Uji
+    date_start: '2016-05-01'
+    date_end: '2017-03-31'
+    description: Researches on FeCrAl ODS steels.
 
 design:
   columns: '2'
