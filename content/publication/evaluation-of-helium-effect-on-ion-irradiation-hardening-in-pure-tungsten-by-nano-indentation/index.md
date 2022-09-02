@@ -28,7 +28,7 @@ featured: false
 tags:
   - tungsten
   - helium
-  - nano-indentation
+  - nanoindentation
 categories:
   - tungsten
 projects:
