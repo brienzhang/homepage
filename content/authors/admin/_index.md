@@ -37,7 +37,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zhexian Zhang is a researcher in the field of nuclear materials. His research topics include FeCrAl ODS steels as cladding materials for fission nuclear reactors and tungsten armor for divertor in fusion reactors. He is skilled in TEM, EBSD, FIB, nanoindentation, AFM and EPMA. He is interested in material kinetics, structure, mechanical metallurgy, computational material science and machine learning.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
