@@ -27,7 +27,7 @@ abstract: "Tungsten (W) has been selected as the armor materials for divertor in
   larger size than those in the matrix, indicating that bubble growth was
   accelerated in grain boundaries."
 draft: false
-featured: true
+featured: false
 tags:
   - tungsten
   - ion-irradiation
