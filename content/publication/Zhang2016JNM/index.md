@@ -29,7 +29,7 @@ draft: false
 featured: false
 tags:
   - tungsten
-  - ion-irradiation
+  - ion irradiation
 categories:
   - tungsten
 projects:
