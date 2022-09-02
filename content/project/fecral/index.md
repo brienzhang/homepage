@@ -9,7 +9,7 @@ authors:
 url_video: ""
 date: 2022-09-02T02:03:53.064Z
 categories:
-  - FeCrAl
+  - fecral
 external_link: ""
 url_slides: ""
 title: FeCrAl
