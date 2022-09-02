@@ -4,7 +4,7 @@ title: Characterization of Precipitates in Mechanically Alloyed SUS304L Type
 publication_types:
   - "2"
 authors:
-  - Morrall Daniel
+  - Daniel Morrall
   - admin
   - Yabuuchi Kiyohiro
   - Kimura Akihiko
