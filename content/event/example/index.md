@@ -7,20 +7,20 @@ abstract: >-
 
   The objective:
 
-  Examine the capability of TITAN to perform STEM dislocation imaging
+  1) Examine the capability of TITAN to perform STEM dislocation imaging
 
-  Compare the STEM contrast under different deviation parameter and g vector
+  2) Compare the STEM contrast under different deviation parameter and g vector
 
-  Compare the STEM and cTEM contrast
+  3) Compare the STEM and cTEM contrast
 
-  Check the deviation between dislocation imaging and real position
+  4) Check the deviation between dislocation imaging and real position
 slides: ""
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
 title: A comparison of imaging dislocation under STEM and cTEM mode
 location: UNM
-date: 2019-07-11T13:00:00Z
-date_end: 2019-07-11T15:00:00Z
+date: 2019-07-11T13:00:00.000Z
+date_end: 2019-07-11T15:00:00.000Z
 all_day: false
 event: PNNL-UNM regular meeting
 event_url: zhexianzhang.netlify.app
