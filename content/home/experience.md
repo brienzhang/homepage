@@ -52,7 +52,7 @@ experience:
   - title: Program-specific assistant professor
     company: Kyoto University
     company_url: ''
-    company_logo: org-x
+    company_logo: kyoto-university-seeklogo.com.svg
     location: Uji
     date_start: '2017-06-01'
     date_end: '2018-02-16'
@@ -61,7 +61,7 @@ experience:
   - title: Program-specific Researcher
     company: Kyoto University
     company_url: ''
-    company_logo: org-x
+    company_logo: kyoto-university-seeklogo.com.svg
     location: Uji
     date_start: '2017-04-01'
     date_end: '2017-05-31'
@@ -70,7 +70,7 @@ experience:
   - title: Researcher
     company: Kyoto University
     company_url: ''
-    company_logo: org-x
+    company_logo: kyoto-university-seeklogo.com.svg
     location: Uji
     date_start: '2016-05-01'
     date_end: '2017-03-31'
