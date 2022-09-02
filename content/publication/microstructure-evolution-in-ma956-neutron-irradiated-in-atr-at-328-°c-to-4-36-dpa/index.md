@@ -39,7 +39,7 @@ tags:
 categories:
   - FeCrAl
 projects:
-  - FeCrAl
+  - fecral
 image:
   filename: featured.png
   focal_point: Smart
