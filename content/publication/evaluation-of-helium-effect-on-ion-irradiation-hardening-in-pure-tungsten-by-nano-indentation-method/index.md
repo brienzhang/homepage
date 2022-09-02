@@ -27,7 +27,7 @@ abstract: "As-received and recrystallized pure tungsten (W) were irradiated with
 draft: false
 featured: false
 tags:
-  - tungsten
+  - Tungsten
   - helium
   - nano-indentation
 categories:
