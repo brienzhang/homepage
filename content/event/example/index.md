@@ -14,8 +14,8 @@ url_pdf: ""
 summary: A talk on the STEM imaging of dislocations in heavy ion-irradiated steel.
 title: A comparison of imaging dislocation under STEM and cTEM mode
 location: UNM
-date: 2019-07-11T13:00:00Z
-date_end: 2019-07-11T15:00:00Z
+date: 2019-07-11T13:00:00.000Z
+date_end: 2019-07-11T15:00:00.000Z
 all_day: false
 event: PNNL-UNM regular meeting
 event_url: zhexianzhang.netlify.app
