@@ -1,5 +1,5 @@
 ---
-title: Irradiation in Tungsten
+title: Tungsten
 date: 2022-09-02T07:34:14.638Z
 draft: false
 featured: false
