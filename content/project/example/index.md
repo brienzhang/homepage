@@ -1,7 +1,10 @@
 ---
 slides: example
 url_pdf: ""
-summary: An example of using the in-built project page.
+summary: FeCrAl ferritic alloys are considered as a promising candidate material
+  for accident tolerant fuel (ATF) cladding\[1]\[3], which suppresses the
+  hydrogen generation rate of reactions with hot water in light water reactors
+  (LWR).
 url_video: ""
 date: 2022-09-02T02:03:53.064Z
 categories:
