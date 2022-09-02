@@ -42,7 +42,7 @@ feature:
     name: LAMMPS
   - description: 30%
     icon: message-bot
-    icon_pack: fa-light
+    icon_pack: fas
     name: Machine Learning
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
