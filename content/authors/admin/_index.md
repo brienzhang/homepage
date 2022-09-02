@@ -9,6 +9,9 @@ interests:
   - Nuclear Materials
   - Irradiation Damage
   - Advanced Electron Microscopy
+  - Aging Embrittlement and Kinetics
+  - Computational Material Science
+  - Machine 
 social:
   - icon: envelope
     icon_pack: fas
