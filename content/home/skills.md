@@ -37,7 +37,7 @@ feature:
     icon_pack: fas
     name: Abaqus
   - description: 40%
-    icon: ball-pile
+    icon: cube
     icon_pack: fas
     name: LAMMPS
   - description: 50%
