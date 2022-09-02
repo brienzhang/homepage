@@ -35,7 +35,7 @@ feature:
   - description: 60%
     icon: flag-checkered
     icon_pack: fal
-    name: FEM
+    name: Abaqus
   - description: 40%
     icon: ball-pile
     icon_pack: fas
@@ -44,6 +44,14 @@ feature:
     icon: message-bot
     icon_pack: fas
     name: Machine Learning
+  - description: 100%
+    icon: message-bot
+    icon_pack: fas
+    name: Mechanical Metallugy
+  - description: 30%
+    icon: message-bot
+    icon_pack: fas
+    name: Material Kinetics
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
