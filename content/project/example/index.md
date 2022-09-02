@@ -18,7 +18,7 @@ links: []
 image:
   caption: tensile specimens aged at 475C after 2000hrs
   focal_point: Smart
-  filename: featured.png
+  filename: featured.jpg
 url_code: ""
 ---
 FeCrAl ferritic alloys are considered as a promising candidate material for accident tolerant fuel (ATF) cladding\[1]\[3], which suppresses the hydrogen generation rate of reactions with hot water in light water reactors (LWR). However, the increased neutron absorption penalty of iron based FeCrAl alloys in comparison to conventional zircaloy system should be covered by reducing the cladding wall thickness and/or enhancing the uranium enrichment of the nuclear fuel\[1]. Reducing cladding tube thickness is an easier way to enhance the neutron economy with FeCrAl alloy cladding assemblies\[4]. For instance, it was reported that the thickness of iron-based alloy claddings should be limited to \~300μm with 4.78% U235 fuel enrichment to match the same cycle length of Zircaloy without changing other fuel pin geometries\[5]. 
