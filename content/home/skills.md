@@ -33,12 +33,12 @@ feature:
     icon_pack: fas
     name: Nano-indentation
   - description: 60%
-    icon: fa-flag-checkered
-    icon_pack: fa-thin
+    icon: flag-checkered
+    icon_pack: fat
     name: Abaqus
   - description: 40%
     icon: ball-pile
-    icon_pack: fas
+    icon_pack: fa-solid
     name: LAMMPS
   - description: 50%
     icon: ball-pile
