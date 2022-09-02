@@ -1,5 +1,5 @@
 ---
-slides: example
+#slides: example
 url_pdf: ""
 summary: FeCrAl ferritic alloys are considered as a promising candidate material
   for accident tolerant fuel (ATF) cladding, which suppresses the hydrogen
