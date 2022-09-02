@@ -36,6 +36,10 @@ tags:
   - neutronirradiation
   - TEM
   - microstructure
+categories:
+  - FeCrAl
+projects:
+  - FeCrAl
 image:
   filename: featured.png
   focal_point: Smart
