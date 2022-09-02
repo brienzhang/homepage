@@ -8,10 +8,10 @@ bio: My research interests include irradiation damage in nuclear materials,
 interests:
   - Nuclear Materials
   - Irradiation Damage
-  - Advanced Electron Microscopy
-  - Aging Embrittlement and Kinetics
-  - Computational Material Science
-  - Machine 
+  - Advanced TEM Techniques
+  - Aging Embrittlement
+  - Precipitation Kinetics
+  - Machine Learning
 social:
   - icon: envelope
     icon_pack: fas
