@@ -30,6 +30,8 @@ featured: false
 tags:
   - austenitic stainless steel
   - MA304LZ
+projects:
+  - other
 image:
   filename: featured
   focal_point: Smart
