@@ -1,6 +1,5 @@
 ---
 title: Radiation response of ODS ferritic steels with different oxide particles
-  under ion irradiation at 550 C
 publication_types:
   - "2"
 authors:
