@@ -27,7 +27,7 @@ draft: false
 featured: false
 tags:
   - MA304LZ
-  - austeniticstainlesssteel
+  - austenitic stainless steel
 projects:
   - other
 image:
