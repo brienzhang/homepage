@@ -22,10 +22,10 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
 
   # Contact details (edit or remove options as required)
-  email: zhangzhexian1987@gmail.com
+  #email: zhangzhexian1987@gmail.com
   #phone: 888 888 88 88
   #address:
     #street: 450 Serra Mall
