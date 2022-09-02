@@ -32,7 +32,7 @@ tags:
   - tungsten
   - irradiation
   - recrystallization
-  - nano-indentation
+  - nanoindentation
 categories:
   - tungsten
 projects:
