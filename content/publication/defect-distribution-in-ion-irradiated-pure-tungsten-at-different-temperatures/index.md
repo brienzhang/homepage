@@ -32,9 +32,9 @@ tags:
   - tungsten
   - ion-irradiation
 categories:
-  - Tungsten
+  - tungsten
 projects:
-  - Tungsten
+  - tungsten
 image:
   filename: featured.png
   focal_point: Smart
