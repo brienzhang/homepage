@@ -1,5 +1,5 @@
 ---
-title: Evaluation of helium effect on ion-irradiation hardening in pure tungsten
+title: Evaluation of helium effect on ion irradiation hardening in pure tungsten
   by nanoindentation
 publication_types:
   - "2"
