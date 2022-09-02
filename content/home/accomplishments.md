@@ -6,7 +6,7 @@ item:
     date_end: ""
     date_start: 2016-09-29
     description: ""
-    organization: 3th China-Japan Symposium on Materials for Advanced Energy Systems and Fission & Fusion Engineering
+    organization: 13th China-Japan Symposium on Materials for Advanced Energy Systems and Fission & Fusion Engineering
     #organization_url: https://www.coursera.org
     title: Young Researcher Award
     url: ""

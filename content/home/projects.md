@@ -27,10 +27,14 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: FeCrAl
+      tag: FeCrAl
+    - name: Tungsten
+      tag: Tunsten
+    - name: TEM
+      tag: TEM
     - name: Other
-      tag: Demo
+      tag: Test
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
