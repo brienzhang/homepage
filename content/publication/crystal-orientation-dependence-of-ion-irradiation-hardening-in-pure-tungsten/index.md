@@ -27,6 +27,8 @@ tags:
   - nanoindentation
 categories:
   - tungsten
+projects:
+  - tungsten
 image:
   filename: featured
   focal_point: Smart
