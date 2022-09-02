@@ -40,6 +40,7 @@ categories:
   - FeCrAl
 projects:
   - fecral
+  - TEM
 image:
   filename: featured.png
   focal_point: Smart
