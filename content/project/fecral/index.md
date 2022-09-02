@@ -10,7 +10,7 @@ categories:
   - FeCrAl
 external_link: ""
 url_slides: ""
-title: "FeCrAl ODS steels for LWR cladding "
+title: FeCrAl
 tags:
   - FeCrAl
 links: []
