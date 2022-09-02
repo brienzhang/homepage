@@ -2,10 +2,9 @@
 title: Evaluation of helium effect on ion-irradiation hardening in pure tungsten
   by nano-indentation method
 publication_types:
-  - "0"
   - "2"
 authors:
-  - Zhexian Zhang
+  - admin
   - Eva Hasenhuetl
   - Kiyohiro Yabuuchi
   - Akihiko Kimura
