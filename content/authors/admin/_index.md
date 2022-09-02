@@ -8,7 +8,6 @@ bio: My research interests include irradiation damage in nuclear materials,
 interests:
   - Development of advanced cladding materials for GenIV fission reactors
   - Irradiation damage of plasma facing materials and divertor in fusion reactors
-  - Irradiation induced phase segregation and precipitation kinetics
   - Advanced transmission electron microscopy techniques
 social:
   - icon: envelope
