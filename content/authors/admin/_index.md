@@ -6,12 +6,10 @@ bio: My research interests include irradiation damage in nuclear materials,
   advanced microstructure characterization techniques, material mechanics and
   kinetics, and computational material science.
 interests:
-  - Nuclear Materials
-  - Irradiation Damage
-  - Advanced TEM Techniques
-  - Aging Embrittlement
-  - Precipitation Kinetics
-  - Machine Learning
+  - Development of advanced cladding materials for GenIV fission reactors
+  - Irradiation damage of plasma facing materials and divertor in fusion reactors
+  - Irradiation induced phase segregation and precipitation kinetics
+  - Advanced transmission electron microscopy techniques
 social:
   - icon: envelope
     icon_pack: fas
