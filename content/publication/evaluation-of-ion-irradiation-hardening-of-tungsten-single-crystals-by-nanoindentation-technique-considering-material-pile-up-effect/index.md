@@ -1,6 +1,5 @@
 ---
-title: Evaluation of Ion Irradiation Hardening of Tungsten Single Crystals by
-  Nanoindentation Technique Considering Material Pile Up Effect
+title: Evaluation of Ion Irradiation Hardening of Tungsten
 publication_types:
   - "2"
 authors:
