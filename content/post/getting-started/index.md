@@ -9,7 +9,8 @@ authors:
   - admin
 lastmod: 2020-12-13T00:00:00Z
 tags:
-  - Academic
+  - New
+  - Test
 categories:
   - Post
 projects: []
