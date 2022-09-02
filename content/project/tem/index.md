@@ -1,7 +1,7 @@
 ---
 title: TEM
 subtitle: STEM imaging of dislocations in metal and alloy
-date: 2022-09-02T10:16:14.852Z
+date: 2022-09-01T10:16:14.852Z
 draft: false
 featured: false
 authors:
