@@ -28,6 +28,13 @@ abstract: "Tungsten (W) has been selected as the armor materials for divertor in
   accelerated in grain boundaries."
 draft: false
 featured: true
+tags:
+  - tungsten
+  - ion-irradiation
+categories:
+  - Tungsten
+projects:
+  - Tungsten
 image:
   filename: featured.png
   focal_point: Smart
