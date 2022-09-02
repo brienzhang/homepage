@@ -4,7 +4,7 @@ publication_types:
   - "0"
   - "2"
 authors:
-  - Zhexian Zhang
+  - admin
   - Kiyohiro Yabuuchi
   - Akihiko Kimura
 doi: 10.1016/j.jnucmat.2016.08.029
