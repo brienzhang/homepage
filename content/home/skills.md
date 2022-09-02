@@ -17,11 +17,11 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 100%
-    icon: telescope
+    icon: star
     icon_pack: fas
     name: TEM
   - description: 100%
-    icon: flower
+    icon: check
     icon_pack: fas
     name: EBSD
   - description: 100%
@@ -40,6 +40,18 @@ feature:
     icon: ball-pile
     icon_pack: fas
     name: LAMMPS
+  - description: 50%
+    icon: ball-pile
+    icon_pack: fas
+    name: Machine Learning
+  - description: 100%
+    icon: ball-pile
+    icon_pack: fas
+    name: Mechanical Metalurgy
+  - description: 20%
+    icon: ball-pile
+    icon_pack: fas
+    name: Material Kinetics
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
