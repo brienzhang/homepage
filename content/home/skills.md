@@ -25,20 +25,20 @@ feature:
     icon_pack: fas
     name: EBSD
   - description: 100%
-    icon: ufo-beam
-    icon_pack: far
+    icon: plus
+    icon_pack: fas
     name: FIB
   - description: 90%
     icon: indent
     icon_pack: fas
     name: Nano-indentation
   - description: 60%
-    icon: train-track
+    icon: shapes
     icon_pack: fas
     name: Abaqus
   - description: 40%
     icon: ball-pile
-    icon_pack: fa-solid
+    icon_pack: fas
     name: LAMMPS
   - description: 50%
     icon: users
