@@ -4,19 +4,14 @@ abstract: >-
   papers.Advantages of STEM imaging includes: 1) Less orientation sensitive->
   bend contour. 2) Strong beam intensity -> thicker specimen available. 3) Large
   scanning area. 4) High resolution  (weak beam, Yoshida et al.).
-
-  The objective:
-
-  Examine the capability of TITAN to perform STEM dislocation imaging
-
-  Compare the STEM contrast under different deviation parameter and g vector
-
-  Compare the STEM and cTEM contrast
-
-  Check the deviation between dislocation imaging and real position
+  The objective: 
+  1) Examine the capability of TITAN to perform STEM dislocation imaging 
+  2) Compare the STEM contrast under different deviation parameter and g vector 
+  3) Compare the STEM and cTEM contrast 
+  4) Check the deviation between dislocation imaging and real position.
 slides: ""
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: A talk on the STEM imaging of dislocations in heavy ion-irradiated steel.
 title: A comparison of imaging dislocation under STEM and cTEM mode
 location: UNM
 date: 2019-07-11T13:00:00Z
@@ -31,10 +26,11 @@ authors:
 url_video: ""
 url_slides: ""
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
+  street: ""
+  city: ""
+  region: 
+    ''
+  postcode: ""
   country: United States
 links: []
 tags:
