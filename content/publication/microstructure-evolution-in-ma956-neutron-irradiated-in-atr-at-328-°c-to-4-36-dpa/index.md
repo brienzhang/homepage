@@ -37,7 +37,7 @@ tags:
   - TEM
   - microstructure
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 summary: Microstructure evolution in MA956 after neutron irradiation was investigated.
