@@ -25,7 +25,7 @@ experience:
   - title: Visitor
     company: Los Alamos National Laboratory
     company_url: ''
-    company_logo: Los_Alamos_National_Laboratory_logo_2001-2021
+    company_logo: los_alamos_national_laboratory_logo_2001-2021
     location: Los Alamos
     date_start: '2019-01-06'
     date_end: '2019-06-06'
@@ -34,7 +34,7 @@ experience:
   - title: Visitor
     company: Pacific Northwest National Laboratory
     company_url: ''
-    company_logo: Pacific_Northwest_National_Laboratory_logo
+    company_logo: pacific_northwest_national_laboratory_logo
     location: Richland
     date_start: '2018-06-01'
     date_end: '2018-06-30'
@@ -43,7 +43,7 @@ experience:
   - title: PostDoc
     company: University of New Mexico
     company_url: ''
-    company_logo: University_of_New_Mexico_logo
+    company_logo: university_of_new_mexico_logo
     location: Albuqueque
     date_start: '2018-03-10'
     date_end: '2020-03-10'
