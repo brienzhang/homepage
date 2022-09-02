@@ -19,12 +19,12 @@ url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
 title: A comparison of imaging dislocation under STEM and cTEM mode
 location: UNM
-date: 2030-06-01T13:00:00Z
-date_end: 2030-06-01T15:00:00Z
+date: 2019-07-11T13:00:00Z
+date_end: 2019-07-11T15:00:00Z
 all_day: false
 event: PNNL-UNM regular meeting
 event_url: zhexianzhang.netlify.app
-publishDate: 2022-09-02T12:35:50.224Z
+publishDate: 2019-09-02T12:35:50.224Z
 featured: true
 authors:
   - admin
