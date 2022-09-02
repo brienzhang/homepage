@@ -29,7 +29,7 @@ abstract: "Tungsten (W) has been selected as the armor materials for divertor in
 draft: false
 featured: false
 tags:
-  - Tungsten
+  - tungsten
   - ion-irradiation
 categories:
   - tungsten
