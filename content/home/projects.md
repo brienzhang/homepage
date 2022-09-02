@@ -30,7 +30,7 @@ content:
     - name: FeCrAl
       tag: FeCrAl
     - name: Tungsten
-      tag: tunsten
+      tag: tungsten
     - name: TEM
       tag: TEM
     - name: Other
