@@ -41,15 +41,15 @@ feature:
     icon_pack: fa-solid
     name: LAMMPS
   - description: 50%
-    icon: ball-pile
+    icon: users
     icon_pack: fas
     name: Machine Learning
   - description: 100%
-    icon: ball-pile
+    icon: plane
     icon_pack: fas
     name: Mechanical Metalurgy
   - description: 20%
-    icon: ball-pile
+    icon: pen
     icon_pack: fas
     name: Material Kinetics
 # Uncomment to use emoji icons.
