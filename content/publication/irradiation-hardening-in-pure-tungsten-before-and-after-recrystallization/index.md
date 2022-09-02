@@ -3,11 +3,10 @@ title: Irradiation hardening in pure tungsten before and after recrystallization
 publication_types:
   - "2"
 authors:
-  - Zhang
-  - Zhexian and Chen
-  - Dongsheng and Han
-  - Wentuo and Kimura
-  - Akihiko
+  - Zhexian Zhang
+  - Dongsheng Chen
+  - Wentuo Han
+  - Akihiko Kimura
 doi: 10.1016/j.fusengdes.2015.06.192
 publication: Fusion Engineering and Design
 abstract: Ion-irradiation hardening of tungsten (W) before and after
