@@ -12,6 +12,13 @@ doi: 10.1016/j.jnucmat.2017.08.030
 publication: Journal of Nuclear Materials
 draft: false
 featured: false
+tags:
+  - tungsten
+  - nanoindentation
+categories:
+  - tungsten
+projects:
+  - tungsten
 image:
   filename: featured
   focal_point: Smart
