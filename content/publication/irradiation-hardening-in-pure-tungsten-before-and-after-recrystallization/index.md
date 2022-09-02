@@ -27,7 +27,7 @@ abstract: Ion-irradiation hardening of tungsten (W) before and after
   in the irradiation hardening between the specimens sampled from the different
   sides of the as-received W.
 draft: false
-featured: true
+featured: false
 tags:
   - tungsten
   - irradiation
