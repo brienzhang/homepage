@@ -11,7 +11,7 @@ lastmod: 2020-12-13T00:00:00Z
 tags:
   - Academic
 categories:
-  - Demo
+  - Post
 projects: []
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
