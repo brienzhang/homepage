@@ -33,8 +33,8 @@ feature:
     icon_pack: fas
     name: Nano-indentation
   - description: 60%
-    icon: flag-checkered
-    icon_pack: fal
+    icon: fa-flag-checkered
+    icon_pack: fa-thin
     name: Abaqus
   - description: 40%
     icon: ball-pile
