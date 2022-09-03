@@ -31,27 +31,15 @@ feature:
   - description: 90%
     icon: indent
     icon_pack: fas
-    name: Nano-indentation
+    name: Nanoindentation
   - description: 60%
     icon: shapes
     icon_pack: fas
-    name: Abaqus
+    name: FEM
   - description: 40%
     icon: cube
     icon_pack: fas
     name: LAMMPS
-  - description: 50%
-    icon: users
-    icon_pack: fas
-    name: Machine Learning
-  - description: 100%
-    icon: plane
-    icon_pack: fas
-    name: Mechanical Metalurgy
-  - description: 20%
-    icon: pen
-    icon_pack: fas
-    name: Material Kinetics
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
