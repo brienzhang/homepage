@@ -30,6 +30,8 @@ featured: false
 tags:
   - austenitic stainless steel
   - MA304LZ
+categories:
+  - other
 projects:
   - other
 image:
