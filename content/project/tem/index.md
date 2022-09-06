@@ -12,7 +12,7 @@ featured: false
 authors:
   - admin
 tags:
-  - TEM, STEM
+  - TEM
 categories:
   - tem
 image:
