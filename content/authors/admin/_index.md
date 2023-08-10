@@ -2,7 +2,7 @@
 title: Zhexian Zhang
 role: Doctor of Energy Science
 avatar_filename: avatar.jpg
-bio: My research interests include irradiation damage in nuclear materials,
+bio: My research interests include nuclear materials, irradiation damage,
   advanced microstructure characterization techniques, material mechanics and
   kinetics, and computational material science.
 interests:
@@ -37,6 +37,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Zhexian Zhang is a researcher in the field of nuclear materials. His research topics include FeCrAl ODS steels as cladding materials for fission nuclear reactors and tungsten armor for divertor in fusion reactors. He is skilled in TEM, EBSD, FIB, nanoindentation, AFM and EPMA. He is interested in material kinetics, microstructure, mechanical metallurgy, computational material science and machine learning.
+Zhexian Zhang is a researcher in the field of nuclear materials. His research topics include FeCrAl ODS steels as cladding materials for fission nuclear reactors and tungsten armor for divertor in fusion reactors. He is skilled in TEM, EBSD, FIB, nanoindentation, AFM and EPMA. He is interested in microstructure characterization, material kinetics, material mechanics, metallurgy and programming.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Zhang.pdf" "newtab" >}}resumé{{< /staticref >}}.
